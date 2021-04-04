@@ -15,4 +15,4 @@ Embedded C: stm32CubeMX V2.0
 
 ### PCB images, and ready card images:
 ##### AnalogIn:
-![](https://github.com/ptiszai/NUCLEO-H743ZI-expanded-2-cards/blob/master/AnalogIn_Expanded/AnalogInExpandedPCB.png)
+![](https://github.com/ptiszai/NUCLEO-H743ZI-expanded-2-cards/blob/AnalogIn_Expanded/AnalogInExpandedPCB.png)
