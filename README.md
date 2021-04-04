@@ -11,7 +11,7 @@
 In-circuit debugger and programmer: 
 STLINK_V3SET:  [link to STLINK_V3SET](https://www.st.com/en/development-tools/stlink-v3set.html)
 
-Embedded C: stm32CubeMX V2.0
+Embedded C: stm32CubeMX V2.0: ./sw_source/Traktor_NUCLEO.ioc_
 
 ### PCB images, and ready card images:
 ##### AnalogIn:
