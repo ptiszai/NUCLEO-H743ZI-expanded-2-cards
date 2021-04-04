@@ -1,9 +1,9 @@
-# AnalogIn and DigitIn expanded cards PCB Designe files, gerber files, stm32CubeMX file.
+# AnalogIn and DigitIn expanded cards, PCB Designe files, gerber files, stm32CubeMX file.
 ##### PCB boards created in Altium Designer 19.
 ### Features
 - Processor card is NUCLEO-H743ZI :
  [link to NUCLEO-H743ZI](https://www.st.com/en/evaluation-tools/nucleo-h743zi.html)
-- DigitIn: 16 channles, inputs are optical coupler 0-13 DC V.
+- DigitIn: 16 channels, inputs are optical coupler 0-13 DC V.
 - AnalogIn: 2 channels are DC 0-10V inputs, 12 bits ADC.
 - 1 channels is SSI interface for the SICK ABSOLUTE ENCODER ARS60 SSI:
 - [link to SICK_envoder](https://www.sick.com/us/en/encoders/absolute-encoders/ars60-ssiparallel/c/g244410)
